@@ -2,3 +2,11 @@
 #wall .tag-1 {
   display: none;
 }
+
+#wall .tag-2 {
+  background-color: white;
+}
+
+#wall .tag-3 {
+  size: 50%;
+}
