@@ -12,5 +12,9 @@
 }
 
 #wall .tag-4 {
-  
+  size: 80%;
+}
+
+#wall .tag-5 {
+  background-color: black;
 }
