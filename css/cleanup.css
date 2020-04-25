@@ -1,1 +1,33 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+#wall .tag-2 {
+  background-color: white;
+}
+
+#wall .tag-3 {
+  size: 50%;
+}
+
+#wall .tag-4 {
+  size: 80%;
+}
+
+#wall .tag-5 {
+  background-color: black;
+}
+
+#wall .tag-6 {
+  display: none;
+}
+
+#wall .tag-7 {
+  display: none;
+}
+
+html {
+  font-size: 20px;
+  margin: auto;
+}
