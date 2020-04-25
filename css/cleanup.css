@@ -26,3 +26,8 @@
 #wall .tag-7 {
   display: none;
 }
+
+html {
+  font-size: 20px;
+  margin: auto;
+}
